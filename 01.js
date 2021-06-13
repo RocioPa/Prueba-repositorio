@@ -1,9 +1,9 @@
-const app= new VTTCue({
+const app= new Vue({
     el: '#app',
     data: {
 
     },
     methods:{
-        
+
     }
 })
